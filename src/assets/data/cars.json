@@ -1,0 +1,46 @@
+[
+  {
+    "id": "car-1",
+    "name": "Model S",
+    "brand": "Tesla",
+    "type": "Electric",
+    "image": "hero-car-highway.jpg",
+    "rate_per_day": 150,
+    "available": 1,
+    "description": "Experience the future of driving with the Tesla Model S.",
+    "specs": "0-60 in 2.3s, 400 miles range"
+  },
+  {
+    "id": "car-2",
+    "name": "911 Carrera",
+    "brand": "Porsche",
+    "type": "Sports",
+    "image": "hero-city-night.jpg",
+    "rate_per_day": 250,
+    "available": 1,
+    "description": "The iconic sports car for an unforgettable drive.",
+    "specs": "379 HP, 0-60 in 4.0s"
+  },
+  {
+    "id": "car-3",
+    "name": "XC90",
+    "brand": "Volvo",
+    "type": "SUV",
+    "image": "hero-key-fob.jpg",
+    "rate_per_day": 120,
+    "available": 1,
+    "description": "Safety and luxury for the whole family.",
+    "specs": "7 seats, AWD"
+  },
+  {
+    "id": "car-4",
+    "name": "Mustang GT",
+    "brand": "Ford",
+    "type": "Muscle",
+    "image": "hero-city-night.jpg",
+    "rate_per_day": 100,
+    "available": 1,
+    "description": "Pure American muscle.",
+    "specs": "V8 Engine, 450 HP"
+  }
+]
